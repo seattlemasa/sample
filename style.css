@@ -1,0 +1,20 @@
+#intro
+{
+	background-color: lightblue;
+}
+.entries
+{
+	background-color: lightgreen;
+}
+#feedback
+{
+	background-color: silver;
+}
+#listTable1
+{
+	background-color: yellow;
+}
+.otherMonthLinks
+{
+	display: inline;
+}

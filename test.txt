@@ -3,3 +3,4 @@ Test file
 2. Bellevue
 3. Redmond
 4. Renton
+5. Lynnwood
